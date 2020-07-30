@@ -1,4 +1,4 @@
-## GURUKRAPA VEGETABLES
+## Hritik Arora
 
 You can use the [editor on GitHub](https://github.com/15-q208/testt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
